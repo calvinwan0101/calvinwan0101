@@ -1,12 +1,12 @@
-# Hi! I'm Calvin Wan 👋
+# Hi! I'm Calvin Wan
 
-## 📋 About Me
+## About Me
 
 * 💼 Software Engineer @ [Galaxy Software Services](https://www.gss.com.tw)
 * 🎓 B.S. in Computer Science and Information Engineering, [National Taipei University of Technology](https://www.ntut.edu.tw)
 * 🌐 Personal Website: [Calvin Space](https://calvinwan0101.github.io/)
 
-## 🚀 Lifelong Coding Journey
+## Lifelong Coding Journey
 
 <!--START_SECTION:waka-->
 
